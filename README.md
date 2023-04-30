@@ -1,7 +1,7 @@
-### Hi there 👋,I'm Ankita More.
-<hr>
+### <center>Hi there 👋,I'm <bold style="color:blue">Ankita More.<bold><center>
+</hr>
 A Passinate Web Devloper from Pune.
-<hr>
+</hr>
 - 🌱 I’m currently learning Flutter and Java
 
 - 👨‍💻 All of my projects are available at (https://github.com/AnkitaMore24)
