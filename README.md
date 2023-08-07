@@ -2,7 +2,7 @@
 </hr>
 A Passinate Web Devloper from Pune.
 </hr>
-- 🌱 I’m currently learning Flutter and Java
+- 🌱 I’m currently learning React.
 
 - 👨‍💻 All of my projects are available at (https://github.com/AnkitaMore24)
 
